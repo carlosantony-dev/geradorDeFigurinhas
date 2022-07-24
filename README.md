@@ -28,13 +28,13 @@ Neste GIF abaixo são os exemplos de stickers gerados por este projeto.
 Clone o projeto
 
 ```bash
-  git clone https://github.com/carlosantony-dev/imersao-java-alura
+  git clone https://github.com/carlosantony-dev/geradorDeFigurinhas
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd imersao-java-alura
+  cd geradorDeFigurinhas
 ```
 
 Rode através de sua IDE
