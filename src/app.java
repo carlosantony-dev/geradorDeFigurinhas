@@ -6,7 +6,7 @@ public class app {
 
     public static void main(String[] args) throws Exception {
 
-        // Caso queira, pode utilizar o extrato das API's da Nasa com sua respectiva url
+        // Caso queira, pode utilizar o extrato das API's da Nasa com sua respectiva url (API nasa)
         // String url = "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&start_date=2022-06-12&end_date=2022-06-14";
         // ExtratorDeConteudo extrator = new ExtratorDeConteudoDaNasa();
 
