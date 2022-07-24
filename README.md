@@ -14,7 +14,7 @@ era criar um gerador de figurinhas utilizando o Java como linguagem principal.
 
 Neste GIF abaixo são os exemplos de stickers gerados por este projeto.
 
-![](example.gif)
+![](examples.gif)
 
 
 ## Rodando localmente
