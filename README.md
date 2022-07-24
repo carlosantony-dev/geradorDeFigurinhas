@@ -11,8 +11,8 @@ era criar um gerador de figurinhas utilizando o Java como linguagem principal.
 
 ## Apêndice
 
-A API da qual este sistema está puxando as imagens, é de minha autoria também,
-caso queira entender melhor como foi desenvolvida neste imersão, acesse o seguinte
+A API da qual este sistema está puxando as imagens, foi elaborado usando Spring Java,
+caso queira entender melhor como foi desenvolvida nesta imersão, acesse o seguinte
 link: https://github.com/carlosantony-dev/languagesAPI
 
 
